@@ -1,2 +1,2 @@
 # StriverA2Z
-DSA Questions of Striver's A2Z series
+DSA Questions of Striver's A2Z series.
